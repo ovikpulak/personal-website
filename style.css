@@ -1,0 +1,96 @@
+body{
+    padding: 0px 100px;
+}
+    ul{
+    text-align: right;
+    background-color: lavender;
+    width: 100%;
+    height: 50px;
+}
+
+ul li{
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: 50px;
+}
+section{
+    height: 500px;
+    padding-bottom: 0px;
+}
+ul li a{
+    text-decoration: none;
+    padding: 0 60px;
+}
+ul li a:hover{
+color: mediumvioletred;
+}
+span{
+    color:orange;
+}
+h1{
+    padding-left: 100px;
+}
+p{
+    padding-left: 100px;
+}
+.halfwidth{
+    width: 50%;
+    float: left;
+    margin: left;
+    border-radius: 5px;
+
+}
+.link-button{
+    padding: 100px;
+    text-decoration: none;
+    background-color: cyan;
+    padding: 10PX 20PX;
+    border-radius: 5px;
+    color:red;
+}
+.img-size{
+    width: 30%;
+    height: 10%;
+}
+.down-img{
+    width: 30%;
+    height: 20%;
+    padding: 10px 100px;
+}
+.PADDING{
+    padding: 10px 0px;
+}
+.text-align{
+    text-align: center;
+    padding: 20px 100px;
+}
+.back-ground{
+    background-color: seashell;
+    width: 100%;
+    height: 100%;
+    padding: 0px 100px;
+}
+.new-img{
+    width: 100%;
+    height: 100%;
+    padding: 10px 0px;
+}
+.full-width{
+    width: 25%;
+    display: inline-block;
+}
+.single-experience{
+    padding: 0px 50px;
+    box-shadow: 10px 20px 30px orchid;
+    border-radius: 10px;
+    height: 25%;
+h3 {
+    text-align: left;
+    padding-left: 80px;
+}
+.background-color{
+    background-color: blueviolet;
+    height: 100%;
+}
