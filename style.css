@@ -1,5 +1,5 @@
 body{
-    padding: 0px 100px;
+    padding: 0px 200px;
 }
     ul{
     text-align: right;
@@ -16,8 +16,7 @@ ul li{
     line-height: 50px;
 }
 section{
-    height: 500px;
-    padding-bottom: 0px;
+    height: 350px;
 }
 ul li a{
     text-decoration: none;
@@ -63,14 +62,13 @@ p{
     padding: 10px 0px;
 }
 .text-align{
-    text-align: center;
-    padding: 20px 100px;
+    padding: 20px 400px;
 }
 .back-ground{
     background-color: seashell;
     width: 100%;
     height: 100%;
-    padding: 0px 100px;
+    padding: 0px 300px;
 }
 .new-img{
     width: 100%;
@@ -81,16 +79,29 @@ p{
     width: 25%;
     display: inline-block;
 }
-.single-experience{
-    padding: 0px 50px;
-    box-shadow: 10px 20px 30px orchid;
-    border-radius: 10px;
-    height: 25%;
-h3 {
-    text-align: left;
-    padding-left: 80px;
-}
-.background-color{
+.align-ment{
+    padding: 50px;
+    float: left;
     background-color: blueviolet;
-    height: 100%;
+    width: 600px;
+    height: 25px;
+    border-radius: 25px;
+    color: white;
+}
+.floating{
+    float: right;
+    color: white;
+}
+.middle-text{
+    padding-left: 500px;
+}
+.footer-align{
+    margin: 0%;
+    padding: 200px 0px 50px 0px;
+    text-align: center;
+    color: steelblue;
+
+}
+#hello-design{
+    font-size: 20px;
 }
